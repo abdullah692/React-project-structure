@@ -1,5 +1,5 @@
 import axios from "axios";
-import { NotificationWithIcon } from "./Notification";
+import { NotificationWithIcon } from "./Notifications";
 
 const BASEURL = `${process.env.REACT_APP_BACKEND_API_URL}/api`;
 console.log(BASEURL, "BaseeeUrrrlllll");
